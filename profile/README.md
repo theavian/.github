@@ -1,8 +1,16 @@
 # Hewol
+Welcome to the official Hewol Github organizaion!
+### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=grey"  />
+## About Us
+We are small organization that focuses on making Arch Linux distros
+## Our Team
+* Debarka Kundu
+* Danek309044
+* ACuteWoof
+* Xanudu
+## 🔗 Links
+[![discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/haTmcAtKCP)
+[![email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&l)](mailto:hewol@proton.me)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hewolSP)
+[![yt](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Hewol)
 
-Welcome to Hewol Github!
-
-Discord: https://discord.gg/haTmcAtKCP
-Email: hewol@proton.me
-Twitter: https://twitter.com/hewolSP
-Youtube: https://www.youtube.com/@Hewol
