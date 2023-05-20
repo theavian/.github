@@ -1,8 +1,6 @@
 # Hewol
 Welcome to the official Hewol Github organizaion!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=grey"  />
-## About Us
-We are small organization that focuses on making Arch Linux distros
 ## Our Team
 * Debarka Kundu
 * Danek309044
