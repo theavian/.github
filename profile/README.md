@@ -1,5 +1,5 @@
 # Hewol
-Welcome to the official Hewol Github organizaion!
+Welcome to the official Hewol Github!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=grey"  />
 ## Our Team
 * Debarka Kundu
