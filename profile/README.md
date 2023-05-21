@@ -1,6 +1,6 @@
 # Hewol
 Welcome to the official Hewol Github!
-### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=grey"  />
+### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=blue"  />
 ## Our Team
 * Debarka Kundu
 * Danek309044
