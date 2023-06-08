@@ -3,7 +3,6 @@ Welcome to the official Hewol Github!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=blue"  />
 ## Our Team
 * Debarka Kundu (Owner)
-* Danek309044 (Developer)
 * ACuteWoof (Developer)
 * Preetam-Das (Developer)
 * Xanudu (Developer)
