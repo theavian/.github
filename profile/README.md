@@ -7,8 +7,6 @@ Welcome to the official Hewol Github!
 * Preetam-Das (Developer)
 * Xanudu (Developer)
 * theavian (Developer)
-* MaxomiYT (Developer)
-* AVVERSION (Developer) (Outside Contributor)
 
 ## 🔗 Links
 [![email](https://img.shields.io/badge/✉️Email-0A66C2?style=for-the-badge&l)](mailto:hewol@proton.me)
