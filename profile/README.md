@@ -2,11 +2,12 @@
 Welcome to the official Hewol Github!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=blue"  />
 ## Our Team
-* Debarka Kundu (Owner)
+* debarkak (Owner)
 * ACuteWoof (Developer)
 * Preetam-Das (Developer)
-* Xanudu (Developer)
+* xanudubuster (Developer)
 * theavian (Developer)
+* Danek309044 (Developer)
 
 ## 🔗 Links
 [![email](https://img.shields.io/badge/✉️Email-0A66C2?style=for-the-badge&l)](mailto:hewol@proton.me)
