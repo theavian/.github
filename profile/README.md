@@ -8,6 +8,7 @@ Welcome to the official Hewol Github!
 * xanudubuster (Developer)
 * theavian (Developer)
 * Danek309044 (Developer)
+* AVVERSION (Developer) 
 
 ## 🔗 Links
 [![email](https://img.shields.io/badge/✉️Email-0A66C2?style=for-the-badge&l)](mailto:hewol@proton.me)
