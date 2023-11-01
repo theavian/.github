@@ -1,7 +1,7 @@
 # Hewol
 Welcome to Hewol Github Page!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=blue"  />
-[Our Team](https://github.com/orgs/hewol/teams/hewol-team)
+[Our Team](https://github.com/orgs/hewol/people)
 
 ## 🔗 Links
 [![email](https://img.shields.io/badge/✉️Email-0A66C2?style=for-the-badge&l)](mailto:hewol@proton.me)
