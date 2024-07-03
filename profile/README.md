@@ -1,5 +1,5 @@
 # Note
-Hewol is in migration process and (almost) all repositories are currently private. Don't worry, they will be back once the migration is complete! Thank you.
+Hewol is in migration process so, most of our repositories are currently private and some archived. Don't worry, they will be back once the migration is complete! Thank you.
 
 Learn More at https://hewol.github.io/announcements/?hbsp
 
