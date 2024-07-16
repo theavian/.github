@@ -1,9 +1,4 @@
-# Note
-Hewol is currently in a migration process, so most of our repositories are currently private and some have been archived. Don't worry, they will come back once the migration is complete, thank you for understanding.
-
-Learn More at https://hewol.github.io/announcements/?hbsp
-
-# Hewol (Original)
+# Hewol
 Welcome to Hewol Github Page!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=blue"  />
 [Our Team](https://github.com/orgs/hewol/people)
